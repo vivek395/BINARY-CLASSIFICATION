@@ -18,7 +18,7 @@ To write a python program to perform binary classification.
 
 •	Confusion Matrix is easy to derive and understand. 
 
-  ** Example:**  Check email is spam or not, predicting gender based on height and weight.
+  Example: Check email is spam or not, predicting gender based on height and weight.
 
 ## Libraries Used in the program.
 ## NUMPY
@@ -45,7 +45,7 @@ Matplotlib is a plotting library for the Python programming language and its num
 ## Program: 
 /*
 
-Program to implement random classification. 
+Program to implement binary classification. 
 
 Developed by : U. VIVEK KRISHNA 
 
