@@ -3,9 +3,11 @@
 # <p align="center"> BINARY CLASSIFICATION</p>
 ## AIM:
 To write a python program to perform binary classification.
+
 ## Equipments Required:
 1.Hardware – PCs
 2.Anaconda – Python 3.7 Installation / Moodle-Code Runner /Google Colab.
+
 ## Theory Concept:
 •	Binary classification is the task of classifying the elements of a set into two groups on the basis of a classification rule. 
 
@@ -16,6 +18,7 @@ To write a python program to perform binary classification.
 •	Confusion Matrix is easy to derive and understand. 
 
   ** Example:**  Check email is spam or not, predicting gender based on height and weight.
+
 ## Libraries Used in the program.
 ## NUMPY
 
