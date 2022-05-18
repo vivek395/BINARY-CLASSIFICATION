@@ -43,16 +43,14 @@ Matplotlib is a plotting library for the Python programming language and its num
 8.	stop the program 
  
 ## Program: 
+```
 /*
-
 Program to implement binary classification. 
-
 Developed by : U. VIVEK KRISHNA 
-
 Register Number : 212219040180 
-
 */
-
+```
+```
 from numpy import where 
 
 from collections import Counter 
@@ -80,7 +78,7 @@ for label,_ in counter.items():
  pyplot.scatter(X[row_ix,0],X[row_ix,1],label=str(label)) 
  
 pyplot.legend() 
- 
+```
 ## Output:
  ![image](https://user-images.githubusercontent.com/63917883/166456586-80efdce1-fc1a-4a72-a686-153a0faf7f77.png)
 
