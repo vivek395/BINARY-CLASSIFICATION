@@ -50,7 +50,7 @@ Developed by : U. VIVEK KRISHNA
 Register Number : 212219040180 
 */
 ```
-```
+```python3
 from numpy import where 
 
 from collections import Counter 
